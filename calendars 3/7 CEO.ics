@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:SF_21
+PRODID:-//The Omni Group//OmniPlan 4.0.2//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20200801T060000Z
+DTEND:20200801T060000Z
+DTSTAMP:20200817T200534Z
+SUMMARY:M0: IDEE
+DESCRIPTION:Meilenstein 0, Grundidee des SF_21
+UID:ci7kpxejpdd.50
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200825T150000Z
+DTEND:20200825T150000Z
+DTSTAMP:20200817T200534Z
+SUMMARY:M1: GO/NO GO
+DESCRIPTION:Entschluss, das Event zu veranstalten (oder die Planung abzubrechen), 
+interne Bekanntgabe, Festlegung von Träger und Projektleiter (ab jetzt 
+gibt es das Event intern)
+
+UID:ci7kpxejpdd.52
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200826T122000Z
+DTEND:20200826T122000Z
+DTSTAMP:20200817T200534Z
+SUMMARY:M2 GOON/STOP
+DESCRIPTION:Entscheidung für die Vorbereitung (oder den Abbruch), Mittelfestlegung, 
+going public: Bekanntgabe des Events, (ab jetzt bringt ein Abbruch 
+finanzielle und ideelle Schäden)
+
+UID:ci7kpxejpdd.85
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201002T060000Z
+DTEND:20201008T150000Z
+DTSTAMP:20200817T200534Z
+SUMMARY:Organisation
+DESCRIPTION:Abschluss aller Notwendigen Organisatorischen Schritte
+UID:ci7kpxejpdd.34
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210828T060000Z
+DTEND:20210828T060000Z
+DTSTAMP:20200817T200534Z
+SUMMARY:M3 POINT OF NO RETURN
+DESCRIPTION:Start der Anlaufphase: Aktivierung und Abrufen der Planung: jetzt entstehen 
+Kosten im größeren Umfang (Letzte Entscheidungsmöglichkeit, 
+Abbrechen danach kaum möglich)
+
+
+UID:ci7kpxejpdd.83
+END:VEVENT
+END:VCALENDAR
