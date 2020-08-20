@@ -10,7 +10,7 @@ SUMMARY:M0: IDEE
 UID:ci7kpxejpdd.50
 DTSTART:20200801T080000
 DUE:20200801T080000
-DTSTAMP:20200820T085322Z
+DTSTAMP:20200820T133049Z
 DESCRIPTION:Meilenstein 0, Grundidee des SF_21
 PRIORITY:1
 END:VTODO
@@ -20,7 +20,7 @@ SUMMARY:M1: GO/NO GO
 UID:ci7kpxejpdd.52
 DTSTART:20200825T170000
 DUE:20200825T170000
-DTSTAMP:20200820T085322Z
+DTSTAMP:20200820T133049Z
 DESCRIPTION:Entschluss, das Event zu veranstalten (oder die Planung abzubrechen), 
 interne Bekanntgabe, Festlegung von Träger und Projektleiter (ab jetzt 
 gibt es das Event intern)
@@ -33,7 +33,7 @@ SUMMARY:M2 GOON/STOP
 UID:ci7kpxejpdd.85
 DTSTART:20200826T142000
 DUE:20200826T142000
-DTSTAMP:20200820T085322Z
+DTSTAMP:20200820T133049Z
 DESCRIPTION:Entscheidung für die Vorbereitung (oder den Abbruch), Mittelfestlegung, 
 going public: Bekanntgabe des Events, (ab jetzt bringt ein Abbruch 
 finanzielle und ideelle Schäden)
@@ -45,7 +45,7 @@ SUMMARY:Organisation
 UID:ci7kpxejpdd.34
 DTSTART:20201002T080000
 DUE:20201008T170000
-DTSTAMP:20200820T085322Z
+DTSTAMP:20200820T133049Z
 DESCRIPTION:Abschluss aller Notwendigen Organisatorischen Schritte
 END:VTODO
 BEGIN:VTODO
@@ -54,7 +54,7 @@ SUMMARY:M3 POINT OF NO RETURN
 UID:ci7kpxejpdd.83
 DTSTART:20210828T080000
 DUE:20210828T080000
-DTSTAMP:20200820T085322Z
+DTSTAMP:20200820T133049Z
 DESCRIPTION:Start der Anlaufphase: Aktivierung und Abrufen der Planung: jetzt entstehen 
 Kosten im größeren Umfang (Letzte Entscheidungsmöglichkeit, 
 Abbrechen danach kaum möglich)
